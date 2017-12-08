@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/663b30c368aed0e4b98e6038affb3999ab3e942a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_c6b58a39e68b3789fcd161d33a212b4df4434213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0/d88059003509074dd59fa226c822724bcf5ec0ca/disklrucache-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/disklrucache-4.0.0_35295ec576cc25929b6271a3daf054d4b8deeab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0/47c487cc4e64e6ab127a517669ca9a7b49f8c61d/gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/gifdecoder-4.0.0_e20558be338fe0f474595420e1ba114bc590b6f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1096cb7e5be3a303c2866c6776dc43ffe111f139">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_09029cadca7b1e95a7476d521d0ddb79b7866306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/Documents/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0510d74ccdd8202938d4a10da9a16837ee27a19d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/e72e71ed96333eb23d5522adf5ee1a95fbe778c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_5039ce338d3982d7465f70bb6c1b6b75a03313a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/9aa9e133c9615394339cad7de1c374597187cc2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_2689ca782d8697a087d558125835a9fdc5925215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/5d956ad8f2d851d41159058d4215cd3b3561f43b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c364019628ff5b32e4930334e9db4680829f7115">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_85db4e8970721d75e223bb3a029a0268a728001c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/picasso-2.5.2_d6e79c1261118a6a24f5c59e88a08548f3c9248f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/765e5569d8e7172469d1118b16fd8b19906d5020/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_c032899683092f3b82e2365b717ff68d6657fe93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/httpclient-4.3.6_6d54054608d242f8f35c18ab40bda322b7ea2d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.7.0/6edbebdd8868708db718d15c09c4b28037fd487e/okhttp-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/okhttp-3.7.0_6a4a3e5034193b986deb0c3a19f5c7df67398ecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/43c699f2614eebdb017a6690392d2b84c17595a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_b15da53400e7b501681241c6033e384a5dccf0a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/f2cf97f00534ae9cc39641b3b380623fb1604d14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3013d965c748748ec9c7d0d42102e9abd1c9ed91">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_0477da3e7f65cb48abe914951461545bb8843b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_8a5d2789b41491fe4daaf206a1e628184a7e42c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/ba6a4092ddc84a184333c635e4d670a3686ebe49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_2e508475bfff043618cf3ded966abd10e75c986b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/2232bd9762e26ede8d460f399e033c59601280d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_bfe48ab00af7a5603451fe9ed7005df5f318ac73.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bb6d9edcc83267f22255ece3232ff37df68379d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/9545b5545f7860fc111d5dd17ba35166fb31d522/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_159514834bc27ebd51ceb98e69277747bd023dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/8761a64061fa30e7129bdd37dfb03d10757b0b08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fd39f74f23c7bd9aeafe58c6d988a7329c3e2790">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_22bf335e24540410a38a4c56c15af0366b38d78d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/934f4040e4e92f111046a4662caab20acdb1ceb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_f764729d131885f56bb3e25b9beefda66535f9bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0/dff931af436f0a2815d0109ab2258bbce2d6275d/glide-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/glide-4.0.0_66c2d08c602ef16de82856742dda39bf5739b0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/b2a7c078d66f2988688b7b31c34b20ab1a4b2c5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_e39f0e9027dfce6d6ef014554ed8cf0248094b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/66e1b664d32a55b1e7abd606cc9465d6c4f82043/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_c1056e6a6534ca122b331f46a27a3ff52d2b5bd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/retrofit-2.0.2_9bb3e2e33536375d53fa5b31970f73dc8d3fdf07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/900a27a7cbef836fa1ef26ea1179092647500a7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_9bd4818f57961429c5e20f7353be88cbe7284067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/b0d8ff2536cb3eb40448c5ff1c897b08cc914a4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_d674141b341f280e641a240f01835051bc698f23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/butterknife-annotations-8.1.0_1dd0e95223c6a39e34049838fb19e36e41c3cc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_1f60f4e95f25215444efe0acf49070fe4b134091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/40c960e52940253de6fe32209f85fd2f77c259c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_fa7951b6c2d3bfb2a77dd2f248f6cfc2de056d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/gson-2.6.2_c91aa58d9d9a289d36978cd9d9d90eb0fb0a534d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/03effad5ae69e42711e2d7b577c509969811ea75/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_b4665174a0310cb2cb6e1c39461834f5f8dbde99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.12.0/3742beff8024d0a0073d284b7c5e4cbf73d99b25/okio-1.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/okio-1.12.0_585e107bdc0ead2efdeb384a1b9e1ce396b35567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/Documents/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_eb8549c42fd2c564788542483572ef7f63647575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_356e65214cfded115bd2e0ef81cf81ef677cea80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/4d320c5121250f04e33368e02fd05a203a7c54cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_4e2ec37ff6ec7cc16ea954c9855d2db207e5cee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/4405415dc5833bc3088fb01e2c20c5d18089bdd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_156711cb1f59c4b917e6844f9c20ac54398f80ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0/f80192e6fd828d41c7da6f3552b0bef5d89cb26e/annotations-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/annotations-4.0.0_3c252a1312ade400422b061f65c8fa251d2d4cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.7/ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1/kenburnsview-1.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/kenburnsview-1.0.7_c4b77d951783bfa6267312bbc10870fefd262be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/96352ad8b89e9621445e5e9b93c29157a2af80a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="27b53c410217659414f27fdc320dd651346125ac">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/pre-dexed/debug/classes_f6374cd8720972e1f3a289f940b6b93aff1f65a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="90857a95af1d21805d0f3c15372aea2b48dae880">
+        <dex dex="/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd714b15cb98c794fcc11b6d64cfaa12d8b62d4b/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_color">@color/blue</color>
+    <color name="blue">#303F9F</color>
+    <color name="colorPrimary">@color/blue</color>
+    <color name="colorPrimaryDark">@color/blue</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="drawerArrowColor">@android:color/white</color>
+    <color name="green">#4CAF50</color>
+    <color name="green_teal">#009688</color>
+    <color name="lime">#CDDC39</color>
+    <color name="navigationBarColor">@android:color/black</color>
+    <color name="purple">#673AB7</color>
+    <color name="red">#F44336</color>
+    <color name="statusBarColor">@color/blue</color>
+    <declare-styleable name="MaterialViewPager"><attr format="reference" name="viewpager_header"/><attr format="reference" name="viewpager_logo"/><attr format="reference" name="viewpager_pagerTitleStrip"/><attr format="reference" name="viewpager_viewpager"/><attr format="dimension" name="viewpager_logoMarginTop"/><attr format="color" name="viewpager_color"/><attr format="dimension" name="viewpager_headerHeight"/><attr format="float" name="viewpager_headerAlpha"/><attr format="float" name="viewpager_imageHeaderDarkLayerAlpha"/><attr format="boolean" name="viewpager_hideToolbarAndTitle"/><attr format="boolean" name="viewpager_hideLogoWithFade"/><attr format="boolean" name="viewpager_enableToolbarElevation"/><attr format="float" name="viewpager_parallaxHeaderFactor"/><attr format="dimension" name="viewpager_headerAdditionalHeight"/><attr format="boolean" name="viewpager_displayToolbarWhenSwipe"/><attr format="boolean" name="viewpager_transparentToolbar"/><attr format="boolean" name="viewpager_animatedHeaderImage"/><attr format="boolean" name="viewpager_disableToolbar"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="cardMarginHorizontal">10dp</dimen>
+    <dimen name="cardMarginVertical">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="materialviewpager_logoHeight">35dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <item name="materialviewpager_headerImageDarkLayer" type="id"/>
+    <item name="materialviewpager_imageHeader" type="id"/>
+    <item name="materialviewpager_pagerTitleStrip" type="id"/>
+    <item name="materialviewpager_viewpager" type="id"/>
+    <style name="MVP_AppBaseTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    </style>
+    <style name="MVP_AppTheme" parent="MVP_AppBaseTheme">
+
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="drawerArrowStyle">@style/MVP_DrawerArrowStyle</item>
+        <item name="android:windowTranslucentStatus" ns1:targetApi="19">true</item>
+
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBar">false</item>
+
+        <!-- Toolbar Theme / Apply white arrow -->
+        <item name="colorControlNormal">@android:color/white</item>
+        <item name="actionBarTheme">@style/MVP_AppTheme.ActionBarTheme</item>
+
+        <!-- Material Theme -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/accent_color</item>
+
+        <item name="android:statusBarColor" ns1:targetApi="21">@color/statusBarColor</item>
+        <item name="android:navigationBarColor" ns1:targetApi="21">@color/navigationBarColor</item>
+        <item name="android:windowDrawsSystemBarBackgrounds" ns1:targetApi="21">true</item>
+
+    </style>
+    <style name="MVP_AppTheme.ActionBarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <!-- White arrow -->
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+    <style name="MVP_DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@color/drawerArrowColor</item>
+    </style>
+</resources>

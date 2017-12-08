@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/amien/.android/build-cache/ba6a4092ddc84a184333c635e4d670a3686ebe49/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

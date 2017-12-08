@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_share.xml",
+        "source": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/amien/.android/build-cache/ba6a4092ddc84a184333c635e4d670a3686ebe49/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_gallery.xml",
+        "source": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_camera.xml",
+        "source": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_manage.xml",
+        "source": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_slideshow.xml",
+        "source": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_send.xml",
+        "source": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/amien/.android/build-cache/ba6a4092ddc84a184333c635e4d670a3686ebe49/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

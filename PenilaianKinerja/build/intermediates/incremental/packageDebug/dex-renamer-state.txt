@@ -1,0 +1,7 @@
+#Thu Dec 07 13:50:55 WIB 2017
+base.0=/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bb6d9edcc83267f22255ece3232ff37df68379d2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd714b15cb98c794fcc11b6d64cfaa12d8b62d4b/classes.dex
+base.1=/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd714b15cb98c794fcc11b6d64cfaa12d8b62d4b
+file.0=/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bb6d9edcc83267f22255ece3232ff37df68379d2/classes.dex
