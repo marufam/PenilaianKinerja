@@ -22,8 +22,10 @@
 
     <application
         android:allowBackup="true"
+        android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.project.application.MainActivity"
@@ -46,8 +48,8 @@
             android:parentActivityName="com.project.application.MainActivity" />
 
         <provider
-            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
-            android:authorities="com.github.florent37.materialviewpager.sample.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.github.florent37.materialviewpager.sample.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

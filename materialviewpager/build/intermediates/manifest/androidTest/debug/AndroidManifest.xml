@@ -17,7 +17,9 @@
         android:name="android.support.VERSION"
         android:value="25.3.1" />
 
-    <application android:allowBackup="true" >
+    <application
+        android:allowBackup="true"
+        android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

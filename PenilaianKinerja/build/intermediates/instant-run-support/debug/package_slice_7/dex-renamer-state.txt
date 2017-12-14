@@ -1,4 +1,4 @@
-#Thu Dec 07 11:24:25 WIB 2017
-base.0=/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+#Thu Dec 14 05:10:34 WIB 2017
+base.0=/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=/home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

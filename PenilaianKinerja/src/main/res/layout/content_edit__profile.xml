@@ -24,7 +24,8 @@
         android:layout_margin="10dp"
         android:layout_height="wrap_content"
         android:hint="Nama Guru"
-        android:id="@+id/nama_guru"/>
+        android:id="@+id/nama_guru"
+        android:textColor="@color/cardview_dark_background"/>
 
     <TextView
         android:layout_width="match_parent"
@@ -35,6 +36,7 @@
         android:layout_height="wrap_content"
         android:hint="NIP"
         android:layout_margin="10dp"
+        android:textColor="@color/cardview_dark_background"
         android:id="@+id/nip"/>
 
     <TextView
@@ -45,6 +47,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="NUPTK"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/nuptk"/>
 
@@ -56,6 +59,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="NRG"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/nrg"/>
 
@@ -67,6 +71,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Tempat Lahir"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/tempat_lahir"/>
 
@@ -78,6 +83,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Tanggal Lahir"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/tanggal_lahir"/>
 
@@ -88,6 +94,7 @@
     <android.support.design.widget.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@color/cardview_dark_background"
         android:hint="Pangkat"
         android:layout_margin="10dp"
         android:id="@+id/pangkat"/>
@@ -100,6 +107,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Jabatan"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/jabatan"/>
 
@@ -111,6 +119,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Golongan"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/golongan"/>
 
@@ -122,6 +131,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="TMT Guru"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/tmtguru"/>
 
@@ -133,6 +143,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Jenis Kelamin"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/jeniskelamin"/>
 
@@ -144,6 +155,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Pendidikan"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/pendidikan"/>
 
@@ -155,6 +167,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Program"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/program"/>
 
@@ -166,6 +179,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Jam Mengajar"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/jam"/>
 
@@ -177,6 +191,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Masa Kerja"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/masakerja"/>
 
@@ -188,6 +203,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Jenis Guru"
+        android:textColor="@color/cardview_dark_background"
         android:layout_margin="10dp"
         android:id="@+id/jenisguru"/>
 

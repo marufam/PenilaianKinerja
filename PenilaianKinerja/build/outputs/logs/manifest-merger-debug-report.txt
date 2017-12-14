@@ -1,20 +1,51 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [:materialviewpager] /home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/3c494ba4dd3fbc90a7fbd9490cb00249/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9c741404bc9e19a56f269ed565ac04ae/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/b04fb2034880b5c808f370c50226be92/AndroidManifest.xml:17:1-28:12
+MERGED from [com.jakewharton:butterknife:8.1.0] /home/amien/.gradle/caches/transforms-1/files-1.1/butterknife-8.1.0.aar/0c1bbf57bfcace41c318eca72012ec3f/AndroidManifest.xml:2:1-7:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.4.0] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-2.4.0.aar/62023c84e8fdd4cbeaffc16b1df1a1ce/AndroidManifest.xml:2:1-13:12
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] /home/amien/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/35c88a972158885e583458b7f07fdea4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/441bd3a1a478c0598f9239252c1285f6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47174a56f5f696bee6e9f4344c19dbe3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bdd8ed00bdc75be7be7aac12149cbae9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f0d7a9f0b1683e3f1bf3cd9551f37c24/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a801b0c2bbcb396f578da842c5dbe0a0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/524e1d36d776e01bdecad809e31d05f5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b2bf3da31cebeeff0e0bd17026f2dad7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/6e9d4ea1266843566d1a6970d6becdb4/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6be674b42d7697fe5580e284b2008219/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cf85fa53ebf2a688038b0dc954295b75/AndroidManifest.xml:17:1-31:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.3] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.3.aar/ca4bc628a93eb611bad00f654f95c38e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:beta:1.1.3] /home/amien/.gradle/caches/transforms-1/files-1.1/beta-1.1.3.aar/56f276d89b78b1e6ff9155499f735395/AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:answers:1.2.2] /home/amien/.gradle/caches/transforms-1/files-1.1/answers-1.2.2.aar/b9cf1fecf6547dd15d41270ed264fb97/AndroidManifest.xml:2:1-11:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.4] /home/amien/.gradle/caches/transforms-1/files-1.1/fabric-1.3.4.aar/c746066149ed437a6d4754e36341a54a/AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f94277f09f993a6612b8b8be962bf3df/AndroidManifest.xml:2:1-11:12
+MERGED from [com.wefika:flowlayout:0.3.0] /home/amien/.gradle/caches/transforms-1/files-1.1/flowlayout-0.3.0.aar/e51cc3d9939760dab6f30231f7e4570c/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:2:1-40:12
 	package
 		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:3:5-60
 	android:versionName
 		INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
+		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
+		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:2:1-40:12
 		INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
-		INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.4.0] /home/amien/.android/build-cache/8761a64061fa30e7129bdd37dfb03d10757b0b08/output/AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.3] /home/amien/.android/build-cache/f2cf97f00534ae9cc39641b3b380623fb1604d14/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.4.0] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-2.4.0.aar/62023c84e8fdd4cbeaffc16b1df1a1ce/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.4.0] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-2.4.0.aar/62023c84e8fdd4cbeaffc16b1df1a1ce/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.3] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.3.aar/ca4bc628a93eb611bad00f654f95c38e/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.3] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.3.aar/ca4bc628a93eb611bad00f654f95c38e/AndroidManifest.xml:9:5-67
 	android:name
 		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
@@ -35,32 +66,52 @@ ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerj
 		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:11:22-69
 application
 ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:13:5-38:19
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.4.0] /home/amien/.android/build-cache/8761a64061fa30e7129bdd37dfb03d10757b0b08/output/AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.3] /home/amien/.android/build-cache/f2cf97f00534ae9cc39641b3b380623fb1604d14/output/AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.1.3] /home/amien/.android/build-cache/9545b5545f7860fc111d5dd17ba35166fb31d522/output/AndroidManifest.xml:9:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.2.2] /home/amien/.android/build-cache/5d956ad8f2d851d41159058d4215cd3b3561f43b/output/AndroidManifest.xml:9:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.3.4] /home/amien/.android/build-cache/b0d8ff2536cb3eb40448c5ff1c897b08cc914a4f/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amien/.android/build-cache/b2a7c078d66f2988688b7b31c34b20ab1a4b2c5b/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] /home/amien/.android/build-cache/ba6a4092ddc84a184333c635e4d670a3686ebe49/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amien/.android/build-cache/e72e71ed96333eb23d5522adf5ee1a95fbe778c3/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amien/.android/build-cache/66e1b664d32a55b1e7abd606cc9465d6c4f82043/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] /home/amien/.android/build-cache/9aa9e133c9615394339cad7de1c374597187cc2d/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/amien/.android/build-cache/03effad5ae69e42711e2d7b577c509969811ea75/output/AndroidManifest.xml:26:5-20
-MERGED from [com.wefika:flowlayout:0.3.0] /home/amien/.android/build-cache/96352ad8b89e9621445e5e9b93c29157a2af80a8/output/AndroidManifest.xml:5:5-7:19
-MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] /home/amien/.android/build-cache/765e5569d8e7172469d1118b16fd8b19906d5020/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /home/amien/.android/build-cache/4d320c5121250f04e33368e02fd05a203a7c54cb/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/amien/.android/build-cache/4405415dc5833bc3088fb01e2c20c5d18089bdd3/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/amien/.android/build-cache/900a27a7cbef836fa1ef26ea1179092647500a7d/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/amien/.android/build-cache/934f4040e4e92f111046a4662caab20acdb1ceb3/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/amien/.android/build-cache/40c960e52940253de6fe32209f85fd2f77c259c0/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/amien/.android/build-cache/2232bd9762e26ede8d460f399e033c59601280d9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/3c494ba4dd3fbc90a7fbd9490cb00249/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/3c494ba4dd3fbc90a7fbd9490cb00249/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9c741404bc9e19a56f269ed565ac04ae/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9c741404bc9e19a56f269ed565ac04ae/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/b04fb2034880b5c808f370c50226be92/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/b04fb2034880b5c808f370c50226be92/AndroidManifest.xml:26:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.4.0] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-2.4.0.aar/62023c84e8fdd4cbeaffc16b1df1a1ce/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.4.0] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-2.4.0.aar/62023c84e8fdd4cbeaffc16b1df1a1ce/AndroidManifest.xml:11:5-20
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] /home/amien/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/35c88a972158885e583458b7f07fdea4/AndroidManifest.xml:9:5-20
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] /home/amien/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/35c88a972158885e583458b7f07fdea4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/441bd3a1a478c0598f9239252c1285f6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/441bd3a1a478c0598f9239252c1285f6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47174a56f5f696bee6e9f4344c19dbe3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47174a56f5f696bee6e9f4344c19dbe3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bdd8ed00bdc75be7be7aac12149cbae9/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bdd8ed00bdc75be7be7aac12149cbae9/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f0d7a9f0b1683e3f1bf3cd9551f37c24/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f0d7a9f0b1683e3f1bf3cd9551f37c24/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a801b0c2bbcb396f578da842c5dbe0a0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a801b0c2bbcb396f578da842c5dbe0a0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/524e1d36d776e01bdecad809e31d05f5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/524e1d36d776e01bdecad809e31d05f5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b2bf3da31cebeeff0e0bd17026f2dad7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b2bf3da31cebeeff0e0bd17026f2dad7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6be674b42d7697fe5580e284b2008219/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6be674b42d7697fe5580e284b2008219/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cf85fa53ebf2a688038b0dc954295b75/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cf85fa53ebf2a688038b0dc954295b75/AndroidManifest.xml:29:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.3] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.3.aar/ca4bc628a93eb611bad00f654f95c38e/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.3] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.3.aar/ca4bc628a93eb611bad00f654f95c38e/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.1.3] /home/amien/.gradle/caches/transforms-1/files-1.1/beta-1.1.3.aar/56f276d89b78b1e6ff9155499f735395/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.1.3] /home/amien/.gradle/caches/transforms-1/files-1.1/beta-1.1.3.aar/56f276d89b78b1e6ff9155499f735395/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.2.2] /home/amien/.gradle/caches/transforms-1/files-1.1/answers-1.2.2.aar/b9cf1fecf6547dd15d41270ed264fb97/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.2.2] /home/amien/.gradle/caches/transforms-1/files-1.1/answers-1.2.2.aar/b9cf1fecf6547dd15d41270ed264fb97/AndroidManifest.xml:9:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.4] /home/amien/.gradle/caches/transforms-1/files-1.1/fabric-1.3.4.aar/c746066149ed437a6d4754e36341a54a/AndroidManifest.xml:25:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.4] /home/amien/.gradle/caches/transforms-1/files-1.1/fabric-1.3.4.aar/c746066149ed437a6d4754e36341a54a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f94277f09f993a6612b8b8be962bf3df/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f94277f09f993a6612b8b8be962bf3df/AndroidManifest.xml:9:5-20
+MERGED from [com.wefika:flowlayout:0.3.0] /home/amien/.gradle/caches/transforms-1/files-1.1/flowlayout-0.3.0.aar/e51cc3d9939760dab6f30231f7e4570c/AndroidManifest.xml:5:5-7:19
+MERGED from [com.wefika:flowlayout:0.3.0] /home/amien/.gradle/caches/transforms-1/files-1.1/flowlayout-0.3.0.aar/e51cc3d9939760dab6f30231f7e4570c/AndroidManifest.xml:5:5-7:19
 	android:label
 		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:16:9-41
-	android:allowBackup
-		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:14:9-35
 	android:icon
 		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:14:9-35
 	android:theme
 		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:17:9-40
 activity#com.project.application.MainActivity
@@ -89,60 +140,101 @@ ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerj
 		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:31:13-44
 activity#com.project.application.ProfileActivity
 ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:34:9-37:90
-	android:label
-		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:36:13-59
 	android:parentActivityName
 		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:37:13-78
+	android:label
+		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:36:13-59
 	android:name
 		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml:35:13-67
 uses-sdk
 INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.jakewharton:butterknife:8.1.0] /home/amien/.android/build-cache/43c699f2614eebdb017a6690392d2b84c17595a2/output/AndroidManifest.xml:5:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.4.0] /home/amien/.android/build-cache/8761a64061fa30e7129bdd37dfb03d10757b0b08/output/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.3] /home/amien/.android/build-cache/f2cf97f00534ae9cc39641b3b380623fb1604d14/output/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:beta:1.1.3] /home/amien/.android/build-cache/9545b5545f7860fc111d5dd17ba35166fb31d522/output/AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.2.2] /home/amien/.android/build-cache/5d956ad8f2d851d41159058d4215cd3b3561f43b/output/AndroidManifest.xml:7:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.3.4] /home/amien/.android/build-cache/b0d8ff2536cb3eb40448c5ff1c897b08cc914a4f/output/AndroidManifest.xml:23:5-43
-MERGED from [com.github.florent37:materialviewpager:1.2.3] /home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amien/.android/build-cache/b2a7c078d66f2988688b7b31c34b20ab1a4b2c5b/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] /home/amien/.android/build-cache/ba6a4092ddc84a184333c635e4d670a3686ebe49/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amien/.android/build-cache/e72e71ed96333eb23d5522adf5ee1a95fbe778c3/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amien/.android/build-cache/66e1b664d32a55b1e7abd606cc9465d6c4f82043/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] /home/amien/.android/build-cache/9aa9e133c9615394339cad7de1c374597187cc2d/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/amien/.android/build-cache/03effad5ae69e42711e2d7b577c509969811ea75/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amien/.android/build-cache/663b30c368aed0e4b98e6038affb3999ab3e942a/output/AndroidManifest.xml:20:5-43
-MERGED from [com.wefika:flowlayout:0.3.0] /home/amien/.android/build-cache/96352ad8b89e9621445e5e9b93c29157a2af80a8/output/AndroidManifest.xml:3:5-73
-MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] /home/amien/.android/build-cache/765e5569d8e7172469d1118b16fd8b19906d5020/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:25.3.1] /home/amien/.android/build-cache/4d320c5121250f04e33368e02fd05a203a7c54cb/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/amien/.android/build-cache/4405415dc5833bc3088fb01e2c20c5d18089bdd3/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/amien/.android/build-cache/900a27a7cbef836fa1ef26ea1179092647500a7d/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/amien/.android/build-cache/934f4040e4e92f111046a4662caab20acdb1ceb3/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/amien/.android/build-cache/40c960e52940253de6fe32209f85fd2f77c259c0/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] /home/amien/.android/build-cache/2232bd9762e26ede8d460f399e033c59601280d9/output/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
+INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
+MERGED from [:materialviewpager] /home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:materialviewpager] /home/amien/Downloads/design/MaterialViewPager-master/materialviewpager/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/3c494ba4dd3fbc90a7fbd9490cb00249/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/3c494ba4dd3fbc90a7fbd9490cb00249/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9c741404bc9e19a56f269ed565ac04ae/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9c741404bc9e19a56f269ed565ac04ae/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/b04fb2034880b5c808f370c50226be92/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/b04fb2034880b5c808f370c50226be92/AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.1.0] /home/amien/.gradle/caches/transforms-1/files-1.1/butterknife-8.1.0.aar/0c1bbf57bfcace41c318eca72012ec3f/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.1.0] /home/amien/.gradle/caches/transforms-1/files-1.1/butterknife-8.1.0.aar/0c1bbf57bfcace41c318eca72012ec3f/AndroidManifest.xml:5:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.4.0] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-2.4.0.aar/62023c84e8fdd4cbeaffc16b1df1a1ce/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.4.0] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-2.4.0.aar/62023c84e8fdd4cbeaffc16b1df1a1ce/AndroidManifest.xml:7:5-43
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] /home/amien/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/35c88a972158885e583458b7f07fdea4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] /home/amien/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/35c88a972158885e583458b7f07fdea4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/441bd3a1a478c0598f9239252c1285f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/441bd3a1a478c0598f9239252c1285f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47174a56f5f696bee6e9f4344c19dbe3/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47174a56f5f696bee6e9f4344c19dbe3/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bdd8ed00bdc75be7be7aac12149cbae9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bdd8ed00bdc75be7be7aac12149cbae9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f0d7a9f0b1683e3f1bf3cd9551f37c24/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f0d7a9f0b1683e3f1bf3cd9551f37c24/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a801b0c2bbcb396f578da842c5dbe0a0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a801b0c2bbcb396f578da842c5dbe0a0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/524e1d36d776e01bdecad809e31d05f5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/524e1d36d776e01bdecad809e31d05f5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b2bf3da31cebeeff0e0bd17026f2dad7/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b2bf3da31cebeeff0e0bd17026f2dad7/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/6e9d4ea1266843566d1a6970d6becdb4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/6e9d4ea1266843566d1a6970d6becdb4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6be674b42d7697fe5580e284b2008219/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6be674b42d7697fe5580e284b2008219/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cf85fa53ebf2a688038b0dc954295b75/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cf85fa53ebf2a688038b0dc954295b75/AndroidManifest.xml:21:5-23:58
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.3] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.3.aar/ca4bc628a93eb611bad00f654f95c38e/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.3] /home/amien/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.3.aar/ca4bc628a93eb611bad00f654f95c38e/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.3] /home/amien/.gradle/caches/transforms-1/files-1.1/beta-1.1.3.aar/56f276d89b78b1e6ff9155499f735395/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.3] /home/amien/.gradle/caches/transforms-1/files-1.1/beta-1.1.3.aar/56f276d89b78b1e6ff9155499f735395/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.2.2] /home/amien/.gradle/caches/transforms-1/files-1.1/answers-1.2.2.aar/b9cf1fecf6547dd15d41270ed264fb97/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.2.2] /home/amien/.gradle/caches/transforms-1/files-1.1/answers-1.2.2.aar/b9cf1fecf6547dd15d41270ed264fb97/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.4] /home/amien/.gradle/caches/transforms-1/files-1.1/fabric-1.3.4.aar/c746066149ed437a6d4754e36341a54a/AndroidManifest.xml:23:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.4] /home/amien/.gradle/caches/transforms-1/files-1.1/fabric-1.3.4.aar/c746066149ed437a6d4754e36341a54a/AndroidManifest.xml:23:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f94277f09f993a6612b8b8be962bf3df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amien/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f94277f09f993a6612b8b8be962bf3df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.wefika:flowlayout:0.3.0] /home/amien/.gradle/caches/transforms-1/files-1.1/flowlayout-0.3.0.aar/e51cc3d9939760dab6f30231f7e4570c/AndroidManifest.xml:3:5-73
+MERGED from [com.wefika:flowlayout:0.3.0] /home/amien/.gradle/caches/transforms-1/files-1.1/flowlayout-0.3.0.aar/e51cc3d9939760dab6f30231f7e4570c/AndroidManifest.xml:3:5-73
+INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
+INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] /home/amien/.android/build-cache/ba6a4092ddc84a184333c635e4d670a3686ebe49/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/3c494ba4dd3fbc90a7fbd9490cb00249/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
+		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
 		INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
+		ADDED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
 		INJECTED from /home/amien/Downloads/design/MaterialViewPager-master/PenilaianKinerja/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] /home/amien/.android/build-cache/ba6a4092ddc84a184333c635e4d670a3686ebe49/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amien/.android/build-cache/fbe870a76e60d264309b86455a5ee4caffbd074b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amien/.android/build-cache/e72e71ed96333eb23d5522adf5ee1a95fbe778c3/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amien/.android/build-cache/66e1b664d32a55b1e7abd606cc9465d6c4f82043/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /home/amien/.android/build-cache/9aa9e133c9615394339cad7de1c374597187cc2d/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] /home/amien/.android/build-cache/03effad5ae69e42711e2d7b577c509969811ea75/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amien/.android/build-cache/663b30c368aed0e4b98e6038affb3999ab3e942a/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] /home/amien/.android/build-cache/4d320c5121250f04e33368e02fd05a203a7c54cb/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/amien/.android/build-cache/4405415dc5833bc3088fb01e2c20c5d18089bdd3/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/amien/.android/build-cache/900a27a7cbef836fa1ef26ea1179092647500a7d/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/amien/.android/build-cache/934f4040e4e92f111046a4662caab20acdb1ceb3/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/amien/.android/build-cache/40c960e52940253de6fe32209f85fd2f77c259c0/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/amien/.android/build-cache/2232bd9762e26ede8d460f399e033c59601280d9/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/3c494ba4dd3fbc90a7fbd9490cb00249/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9c741404bc9e19a56f269ed565ac04ae/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9c741404bc9e19a56f269ed565ac04ae/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/b04fb2034880b5c808f370c50226be92/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/b04fb2034880b5c808f370c50226be92/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/441bd3a1a478c0598f9239252c1285f6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/441bd3a1a478c0598f9239252c1285f6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47174a56f5f696bee6e9f4344c19dbe3/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/47174a56f5f696bee6e9f4344c19dbe3/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bdd8ed00bdc75be7be7aac12149cbae9/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bdd8ed00bdc75be7be7aac12149cbae9/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f0d7a9f0b1683e3f1bf3cd9551f37c24/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/f0d7a9f0b1683e3f1bf3cd9551f37c24/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a801b0c2bbcb396f578da842c5dbe0a0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a801b0c2bbcb396f578da842c5dbe0a0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/524e1d36d776e01bdecad809e31d05f5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/524e1d36d776e01bdecad809e31d05f5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b2bf3da31cebeeff0e0bd17026f2dad7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/b2bf3da31cebeeff0e0bd17026f2dad7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/6e9d4ea1266843566d1a6970d6becdb4/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/6e9d4ea1266843566d1a6970d6becdb4/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6be674b42d7697fe5580e284b2008219/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/6be674b42d7697fe5580e284b2008219/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cf85fa53ebf2a688038b0dc954295b75/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/cf85fa53ebf2a688038b0dc954295b75/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] /home/amien/.android/build-cache/ba6a4092ddc84a184333c635e4d670a3686ebe49/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/3c494ba4dd3fbc90a7fbd9490cb00249/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] /home/amien/.android/build-cache/ba6a4092ddc84a184333c635e4d670a3686ebe49/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] /home/amien/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/3c494ba4dd3fbc90a7fbd9490cb00249/AndroidManifest.xml:26:9-47

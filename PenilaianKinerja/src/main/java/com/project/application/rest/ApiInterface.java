@@ -8,8 +8,12 @@ import com.project.application.rest.pojo.Kompetensi;
 import com.project.application.rest.pojo.Komplain;
 import com.project.application.rest.pojo.Nilai;
 
+import okhttp3.RequestBody;
 import retrofit2.Call;
 import retrofit2.http.GET;
+import retrofit2.http.Multipart;
+import retrofit2.http.POST;
+import retrofit2.http.Part;
 import retrofit2.http.Query;
 
 /**
@@ -56,18 +60,27 @@ public interface ApiInterface {
 //    Call<GetLokasi> getLokasi();
 //
 
-//    @Multipart
-//    @POST("index.php/karyawan_api")
-//    Call<GetKaryawan> uploadImage(@Part MultipartBody.Part foto,
-//                                  @Part("id_karyawan") RequestBody id_karyawan,
-//                                  @Part("nama_karyawan") RequestBody nama_karyawan,
-//                                  @Part("tempat_lahir") RequestBody tempat_lahir,
-//                                  @Part("tgl_lahir") RequestBody tgl_lahir,
-//                                  @Part("alamat") RequestBody alamat,
-//                                  @Part("jk") RequestBody jk,
-//                                  @Part("username") RequestBody username,
-//                                  @Part("password") RequestBody password,
-//                                  @Part("action") RequestBody action);
+    @Multipart
+    @POST("index.php/karyawan_api")
+    Call<Guru> guruedit(@Part("kodeguru") RequestBody kodeguru,
+                                  @Part("nip") RequestBody nip,
+                                  @Part("nuptk") RequestBody nuptk,
+                                  @Part("nrg") RequestBody nrg,
+                                  @Part("nama") RequestBody nama,
+                                  @Part("tempatlahir") RequestBody tempatlahir,
+                                  @Part("tanggallahir") RequestBody tanggallahir,
+                                  @Part("kodepangkat") RequestBody kodepangkat,
+                                  @Part("kodejabatan") RequestBody kodejabatan,
+                           @Part("kodegolongan") RequestBody kodegolongan,
+                           @Part("tmtguru") RequestBody tmtguru,
+                           @Part("jeniskelamin") RequestBody jeniskelamin,
+                           @Part("pendidikan") RequestBody pendidikan,
+                           @Part("program") RequestBody program,
+                           @Part("jam") RequestBody jam,
+                           @Part("masakerja") RequestBody masakerja,
+                           @Part("jenisguru") RequestBody jenisguru,
+                        @Part("action") RequestBody action
+                           );
 
-            ;
+
 }

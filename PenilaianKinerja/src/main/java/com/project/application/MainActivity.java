@@ -1,6 +1,7 @@
 package com.project.application;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
@@ -32,6 +33,12 @@ public class MainActivity extends DrawerActivity {
         setContentView(R.layout.activity_main);
         setTitle("");
         ButterKnife.bind(this);
+
+        SharedPreferences pref = getApplicationContext().getSharedPreferences("MyPref", 0); // 0 - for private mode where the created file can only be accessed by the calling application
+        SharedPreferences.Editor editor = pref.edit();
+        editor.putString("id_guru", "GRU0000001");
+        editor.commit();
+
 
         final Toolbar toolbar = mViewPager.getToolbar();
         if (toolbar != null) {
