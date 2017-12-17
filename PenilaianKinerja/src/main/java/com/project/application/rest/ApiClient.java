@@ -8,20 +8,17 @@ import retrofit2.converter.gson.GsonConverterFactory;
  */
 
 public class ApiClient {
-    public static final String BASE_URL = "http://192.168.43.126/kinerja_res/";
+    public static final String BASE_URL = "http://10.42.0.1/kinerja_res/";
 
-    private static Retrofit retrofit = null;
+    private static Retrofit retrofit24 = null;
     public static Retrofit GetGuru() {
-        if (retrofit==null) {
-            retrofit = new Retrofit.Builder()
+        if (retrofit24==null) {
+            retrofit24 = new Retrofit.Builder()
                     .baseUrl(BASE_URL)
                     .addConverterFactory(GsonConverterFactory.create())
                     .build();
         }
-        return retrofit;
-    }
-    public static ApiInterface getApiGuru(){
-        return GetGuru().create(ApiInterface.class);
+        return retrofit24;
     }
 
     private static Retrofit retrofit1 = null;

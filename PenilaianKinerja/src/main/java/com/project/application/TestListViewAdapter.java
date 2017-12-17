@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 
-import com.github.florent37.materialviewpager.sample.R;
+import com.github.florent37.R;
 
 import java.util.List;
 

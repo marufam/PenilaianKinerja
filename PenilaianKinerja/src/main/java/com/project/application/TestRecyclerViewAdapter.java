@@ -5,7 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.github.florent37.materialviewpager.sample.R;
+import com.github.florent37.R;
 
 import java.util.List;
 

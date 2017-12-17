@@ -10,8 +10,8 @@ import android.view.MenuItem;
 import android.widget.ListView;
 
 import com.crashlytics.android.Crashlytics;
-import com.github.florent37.materialviewpager.sample.BuildConfig;
-import com.github.florent37.materialviewpager.sample.R;
+import com.github.florent37.BuildConfig;
+import com.github.florent37.R;
 
 import io.fabric.sdk.android.Fabric;
 

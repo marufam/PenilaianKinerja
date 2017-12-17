@@ -8,43 +8,43 @@ package com.astuetz.pagerslidingtabstrip;
 
 public final class R {
     public static final class attr {
-        public static int pstsDividerColor = 0x7f040106;
-        public static int pstsDividerPadding = 0x7f040107;
-        public static int pstsDividerWidth = 0x7f040108;
-        public static int pstsIndicatorColor = 0x7f040109;
-        public static int pstsIndicatorHeight = 0x7f04010a;
-        public static int pstsPaddingMiddle = 0x7f04010b;
-        public static int pstsScrollOffset = 0x7f04010c;
-        public static int pstsShouldExpand = 0x7f04010d;
-        public static int pstsTabBackground = 0x7f04010e;
-        public static int pstsTabPaddingLeftRight = 0x7f04010f;
-        public static int pstsTabTextAllCaps = 0x7f040110;
-        public static int pstsTabTextAlpha = 0x7f040111;
-        public static int pstsTabTextColor = 0x7f040112;
-        public static int pstsTabTextFontFamily = 0x7f040113;
-        public static int pstsTabTextSize = 0x7f040114;
-        public static int pstsTabTextStyle = 0x7f040115;
-        public static int pstsUnderlineColor = 0x7f040116;
-        public static int pstsUnderlineHeight = 0x7f040117;
+        public static int pstsDividerColor = 0x7f040147;
+        public static int pstsDividerPadding = 0x7f040148;
+        public static int pstsDividerWidth = 0x7f040149;
+        public static int pstsIndicatorColor = 0x7f04014a;
+        public static int pstsIndicatorHeight = 0x7f04014b;
+        public static int pstsPaddingMiddle = 0x7f04014c;
+        public static int pstsScrollOffset = 0x7f04014d;
+        public static int pstsShouldExpand = 0x7f04014e;
+        public static int pstsTabBackground = 0x7f04014f;
+        public static int pstsTabPaddingLeftRight = 0x7f040150;
+        public static int pstsTabTextAllCaps = 0x7f040151;
+        public static int pstsTabTextAlpha = 0x7f040152;
+        public static int pstsTabTextColor = 0x7f040153;
+        public static int pstsTabTextFontFamily = 0x7f040154;
+        public static int pstsTabTextSize = 0x7f040155;
+        public static int pstsTabTextStyle = 0x7f040156;
+        public static int pstsUnderlineColor = 0x7f040157;
+        public static int pstsUnderlineHeight = 0x7f040158;
     }
     public static final class color {
-        public static int psts_background_tab_pressed = 0x7f060062;
-        public static int psts_background_tab_pressed_ripple = 0x7f060063;
+        public static int psts_background_tab_pressed = 0x7f06007e;
+        public static int psts_background_tab_pressed_ripple = 0x7f06007f;
     }
     public static final class drawable {
-        public static int psts_background_tab = 0x7f090070;
+        public static int psts_background_tab = 0x7f0900bf;
     }
     public static final class id {
-        public static int bold = 0x7f0c001c;
-        public static int italic = 0x7f0c0049;
-        public static int normal = 0x7f0c005e;
-        public static int psts_tab_title = 0x7f0c006a;
+        public static int bold = 0x7f0c0029;
+        public static int italic = 0x7f0c008e;
+        public static int normal = 0x7f0c00ac;
+        public static int psts_tab_title = 0x7f0c00c5;
     }
     public static final class layout {
-        public static int psts_tab = 0x7f0f0040;
+        public static int psts_tab = 0x7f0f004a;
     }
     public static final class styleable {
-        public static int[] PagerSlidingTabStrip = { 0x7f040106, 0x7f040107, 0x7f040108, 0x7f040109, 0x7f04010a, 0x7f04010b, 0x7f04010c, 0x7f04010d, 0x7f04010e, 0x7f04010f, 0x7f040110, 0x7f040111, 0x7f040112, 0x7f040113, 0x7f040114, 0x7f040115, 0x7f040116, 0x7f040117 };
+        public static int[] PagerSlidingTabStrip = { 0x7f040147, 0x7f040148, 0x7f040149, 0x7f04014a, 0x7f04014b, 0x7f04014c, 0x7f04014d, 0x7f04014e, 0x7f04014f, 0x7f040150, 0x7f040151, 0x7f040152, 0x7f040153, 0x7f040154, 0x7f040155, 0x7f040156, 0x7f040157, 0x7f040158 };
         public static int PagerSlidingTabStrip_pstsDividerColor = 0;
         public static int PagerSlidingTabStrip_pstsDividerPadding = 1;
         public static int PagerSlidingTabStrip_pstsDividerWidth = 2;

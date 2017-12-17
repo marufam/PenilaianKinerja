@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1068061992317",
+    "firebase_url": "https://fire-bbde5.firebaseio.com",
+    "project_id": "fire-bbde5",
+    "storage_bucket": "fire-bbde5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068061992317:android:678491180c5a006f",
+        "android_client_info": {
+          "package_name": "com.github.florent37"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068061992317-oqo78b7s8kuki3qs6c9s402iiluj6g9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-K7La_eUICnRZzqyhhnCzW0tLReH3zw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068061992317:android:1679b46808d2b71a",
+        "android_client_info": {
+          "package_name": "com.github.florent37.materialviewpager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068061992317-oqo78b7s8kuki3qs6c9s402iiluj6g9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-K7La_eUICnRZzqyhhnCzW0tLReH3zw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

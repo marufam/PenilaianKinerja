@@ -41,7 +41,8 @@ dependencies {
     compile 'com.squareup.retrofit2:converter-gson:2.0.2'
     compile 'com.wefika:flowlayout:0.3.0'
     compile 'com.squareup.okhttp3:okhttp:3.7.0'
-
+    compile 'com.google.firebase:firebase-messaging:9.6.0'
+    compile 'com.google.firebase:firebase-core:9.6.0'
 
     compile 'com.flaviofaria:kenburnsview:1.0.7'
     compile 'com.jpardogo.materialtabstrip:library:1.1.0'
@@ -73,6 +74,6 @@ ext {
     allLicenses = ["Apache-2.0"]
 }
 
-
+apply plugin: 'com.google.gms.google-services'
 apply from: rootProject.file('gradle/install-v1.gradle')
 apply from: rootProject.file('gradle/bintray-android-v1.gradle')

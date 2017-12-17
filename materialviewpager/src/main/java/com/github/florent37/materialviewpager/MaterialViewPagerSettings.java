@@ -6,6 +6,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.util.AttributeSet;
 
+
 import static com.github.florent37.materialviewpager.Utils.pxToDp;
 
 /**

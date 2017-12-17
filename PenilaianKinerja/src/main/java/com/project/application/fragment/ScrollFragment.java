@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 
 import com.github.florent37.materialviewpager.MaterialViewPagerHelper;
 
-import com.github.florent37.materialviewpager.sample.R;
+import com.github.florent37.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

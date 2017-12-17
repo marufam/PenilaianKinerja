@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.florent37.materialviewpager.sample.test">
+    package="com.github.florent37.test">
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="24" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.github.florent37.materialviewpager.sample"
+                     android:targetPackage="com.github.florent37"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.github.florent37.materialviewpager.sample"/>
+                     android:label="Tests for com.github.florent37"/>
 </manifest>

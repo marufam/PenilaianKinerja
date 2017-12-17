@@ -3,6 +3,7 @@ package com.project.application;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.app.Activity;
+import android.support.v4.app.NotificationCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
@@ -11,7 +12,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.github.florent37.materialviewpager.sample.R;
+import com.github.florent37.R;
 import com.project.application.rest.ApiClient;
 import com.project.application.rest.ApiInterface;
 import com.project.application.rest.pojo.Guru;
@@ -37,6 +38,12 @@ public class ProfileActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         setTitle("Profile");
         pref = getApplicationContext().getSharedPreferences("MyPref", 0); // 0 - for private mode where the created file can only be accessed by the calling application
+        NotificationCompat.Builder mBuilder =
+                new NotificationCompat.Builder(this)
+                        .setSmallIcon(R.drawable.ic_menu_manage)
+                        .setContentTitle("My notification")
+                        .setContentText("Hello World!");
+
         namaguru = (TextView) findViewById(R.id.nama_guru);
         nip = (TextView) findViewById(R.id.nip);
         nuptk = (TextView) findViewById(R.id.nuptk);
@@ -56,36 +63,36 @@ public class ProfileActivity extends AppCompatActivity {
 
         btnUpdate = (Button) findViewById(R.id.update_karyawan);
 
-        ApiInterface mApiInterface = ApiClient.GetGuru().create(ApiInterface.class);
-        Call<Guru> guruCall = mApiInterface.getGuruId(pref.getString("id_guru",null));
-        guruCall.enqueue(new Callback<Guru>() {
-
-            @Override
-            public void onResponse(Call<Guru> call, Response<Guru> response) {
-                Toast.makeText(ProfileActivity.this, "Guru " + response.body().getGuru().get(0).getNama().toString(), Toast.LENGTH_SHORT).show();
-                namaguru.setText(response.body().getGuru().get(0).getNama().toString());
-                nip.setText(response.body().getGuru().get(0).getNip().toString());
-                nuptk.setText(response.body().getGuru().get(0).getNuptk().toString());
-                nrg.setText(response.body().getGuru().get(0).getNrg().toString());
-                tempat_lahir.setText(response.body().getGuru().get(0).getTempatlahir().toString());
-                tanggal_lahir.setText(response.body().getGuru().get(0).getTanggallahir().toString());
-                pangkat.setText(response.body().getGuru().get(0).getKodepangkat().toString());
-                jabatan.setText(response.body().getGuru().get(0).getKodejabatan().toString());
-                golongan.setText(response.body().getGuru().get(0).getKodegolongan().toString());
-                tmt.setText(response.body().getGuru().get(0).getTmtguru().toString());
-                jeniskelamin.setText(response.body().getGuru().get(0).getJeniskelamin().toString());
-                pendidikan.setText(response.body().getGuru().get(0).getPendidikan().toString());
-                program.setText(response.body().getGuru().get(0).getProgram().toString());
-                jam.setText(response.body().getGuru().get(0).getJam().toString());
-                masakerja.setText(response.body().getGuru().get(0).getMasakerja().toString());
-                jenisguru.setText(response.body().getGuru().get(0).getJenisguru().toString());
-            }
-
-            @Override
-            public void onFailure(Call<Guru> call, Throwable t) {
-                Toast.makeText(ProfileActivity.this, "Check your connection!!", Toast.LENGTH_SHORT).show();
-            }
-        });
+//        ApiInterface mApiInterface = ApiClient.GetGuru().create(ApiInterface.class);
+//        Call<Guru> guruCall = mApiInterface.getGuruId(pref.getString("id_guru",null));
+//        guruCall.enqueue(new Callback<Guru>() {
+//
+//            @Override
+//            public void onResponse(Call<Guru> call, Response<Guru> response) {
+////                Toast.makeText(ProfileActivity.this, "Guru " + response.body().getGuru().get(0).getNama().toString(), Toast.LENGTH_SHORT).show();
+//                namaguru.setText(response.body().getGuru().get(0).getNama().toString());
+//                nip.setText(response.body().getGuru().get(0).getNip().toString());
+//                nuptk.setText(response.body().getGuru().get(0).getNuptk().toString());
+//                nrg.setText(response.body().getGuru().get(0).getNrg().toString());
+//                tempat_lahir.setText(response.body().getGuru().get(0).getTempatlahir().toString());
+//                tanggal_lahir.setText(response.body().getGuru().get(0).getTanggallahir().toString());
+//                pangkat.setText(response.body().getGuru().get(0).getKodepangkat().toString());
+//                jabatan.setText(response.body().getGuru().get(0).getKodejabatan().toString());
+//                golongan.setText(response.body().getGuru().get(0).getKodegolongan().toString());
+//                tmt.setText(response.body().getGuru().get(0).getTmtguru().toString());
+//                jeniskelamin.setText(response.body().getGuru().get(0).getJeniskelamin().toString());
+//                pendidikan.setText(response.body().getGuru().get(0).getPendidikan().toString());
+//                program.setText(response.body().getGuru().get(0).getProgram().toString());
+//                jam.setText(response.body().getGuru().get(0).getJam().toString());
+//                masakerja.setText(response.body().getGuru().get(0).getMasakerja().toString());
+//                jenisguru.setText(response.body().getGuru().get(0).getJenisguru().toString());
+//            }
+//
+//            @Override
+//            public void onFailure(Call<Guru> call, Throwable t) {
+//                Toast.makeText(ProfileActivity.this, "Check your connection!!", Toast.LENGTH_SHORT).show();
+//            }
+//        });
 
         btnUpdate.setOnClickListener(new View.OnClickListener() {
             @Override

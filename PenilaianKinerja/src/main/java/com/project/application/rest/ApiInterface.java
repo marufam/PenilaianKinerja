@@ -10,6 +10,7 @@ import com.project.application.rest.pojo.Nilai;
 
 import okhttp3.RequestBody;
 import retrofit2.Call;
+import retrofit2.http.Body;
 import retrofit2.http.GET;
 import retrofit2.http.Multipart;
 import retrofit2.http.POST;
@@ -59,9 +60,14 @@ public interface ApiInterface {
 //    @GET("index.php/lokasi_api")
 //    Call<GetLokasi> getLokasi();
 //
+    @Multipart
+    @POST("index.php/Guru_api")
+    Call<Guru> loginguru(@Part("nip") RequestBody nip,
+                         @Part("tanggallahir") RequestBody tanggallahir,
+                         @Part("action") RequestBody action);
 
     @Multipart
-    @POST("index.php/karyawan_api")
+    @POST("index.php/Guru_api")
     Call<Guru> guruedit(@Part("kodeguru") RequestBody kodeguru,
                                   @Part("nip") RequestBody nip,
                                   @Part("nuptk") RequestBody nuptk,

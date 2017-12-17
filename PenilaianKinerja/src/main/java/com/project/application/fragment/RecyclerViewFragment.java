@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.github.florent37.materialviewpager.header.MaterialViewPagerHeaderDecorator;
-import com.github.florent37.materialviewpager.sample.R;
+import com.github.florent37.R;
 import com.project.application.TestRecyclerViewAdapter;
 
 import java.util.ArrayList;

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Material View Pager</string>
+    <string name="app_name">Penilaian Kinerja Guru</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
@@ -106,4 +106,5 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="title_activity_notificationview">Notificationview</string>
 </resources>
