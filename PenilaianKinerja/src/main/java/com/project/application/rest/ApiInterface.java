@@ -44,14 +44,14 @@ public interface ApiInterface {
     @GET("index.php/Komplain_api")
     Call<Komplain> getKomplain();
 
-    @GET("index.php/Kompetensi_api")
+    @GET("index.php/Komplain_api")
     Call<Komplain> getKomplainId(@Query("id") String id);
 
     @GET("index.php/Nilai_api")
     Call<Nilai> getNilai();
 
-    @GET("index.php/Kompetensi_api")
-    Call<Nilai> getNilaiId(@Query("id") String id);
+    @GET("index.php/Nilai_api")
+    Call<Nilai> getNilaiid(@Query("id") String id, @Query("kodekompetensi") String kodekompetensi);
 
 //    @GET("index.php/jadwal_api")
 //    Call<GetJadwal> getJadwal(@Query("id_karyawan") String id_karyawan);

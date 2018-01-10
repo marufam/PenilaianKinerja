@@ -63,42 +63,42 @@ public class ProfileActivity extends AppCompatActivity {
 
         btnUpdate = (Button) findViewById(R.id.update_karyawan);
 
-//        ApiInterface mApiInterface = ApiClient.GetGuru().create(ApiInterface.class);
-//        Call<Guru> guruCall = mApiInterface.getGuruId(pref.getString("id_guru",null));
-//        guruCall.enqueue(new Callback<Guru>() {
-//
-//            @Override
-//            public void onResponse(Call<Guru> call, Response<Guru> response) {
-////                Toast.makeText(ProfileActivity.this, "Guru " + response.body().getGuru().get(0).getNama().toString(), Toast.LENGTH_SHORT).show();
-//                namaguru.setText(response.body().getGuru().get(0).getNama().toString());
-//                nip.setText(response.body().getGuru().get(0).getNip().toString());
-//                nuptk.setText(response.body().getGuru().get(0).getNuptk().toString());
-//                nrg.setText(response.body().getGuru().get(0).getNrg().toString());
-//                tempat_lahir.setText(response.body().getGuru().get(0).getTempatlahir().toString());
-//                tanggal_lahir.setText(response.body().getGuru().get(0).getTanggallahir().toString());
-//                pangkat.setText(response.body().getGuru().get(0).getKodepangkat().toString());
-//                jabatan.setText(response.body().getGuru().get(0).getKodejabatan().toString());
-//                golongan.setText(response.body().getGuru().get(0).getKodegolongan().toString());
-//                tmt.setText(response.body().getGuru().get(0).getTmtguru().toString());
-//                jeniskelamin.setText(response.body().getGuru().get(0).getJeniskelamin().toString());
-//                pendidikan.setText(response.body().getGuru().get(0).getPendidikan().toString());
-//                program.setText(response.body().getGuru().get(0).getProgram().toString());
-//                jam.setText(response.body().getGuru().get(0).getJam().toString());
-//                masakerja.setText(response.body().getGuru().get(0).getMasakerja().toString());
-//                jenisguru.setText(response.body().getGuru().get(0).getJenisguru().toString());
-//            }
-//
-//            @Override
-//            public void onFailure(Call<Guru> call, Throwable t) {
-//                Toast.makeText(ProfileActivity.this, "Check your connection!!", Toast.LENGTH_SHORT).show();
-//            }
-//        });
+        ApiInterface mApiInterface = ApiClient.GetGuru().create(ApiInterface.class);
+        Call<Guru> guruCall = mApiInterface.getGuruId(pref.getString("id_guru",null));
+        guruCall.enqueue(new Callback<Guru>() {
+
+            @Override
+            public void onResponse(Call<Guru> call, Response<Guru> response) {
+//                Toast.makeText(ProfileActivity.this, "Guru " + response.body().getGuru().get(0).getNama().toString(), Toast.LENGTH_SHORT).show();
+                namaguru.setText(response.body().getGuru().get(0).getNama().toString());
+                nip.setText(response.body().getGuru().get(0).getNip().toString());
+                nuptk.setText(response.body().getGuru().get(0).getNuptk().toString());
+                nrg.setText(response.body().getGuru().get(0).getNrg().toString());
+                tempat_lahir.setText(response.body().getGuru().get(0).getTempatlahir().toString());
+                tanggal_lahir.setText(response.body().getGuru().get(0).getTanggallahir().toString());
+                pangkat.setText(response.body().getGuru().get(0).getKodepangkat().toString());
+                jabatan.setText(response.body().getGuru().get(0).getKodejabatan().toString());
+                golongan.setText(response.body().getGuru().get(0).getKodegolongan().toString());
+                tmt.setText(response.body().getGuru().get(0).getTmtguru().toString());
+                jeniskelamin.setText(response.body().getGuru().get(0).getJeniskelamin().toString());
+                pendidikan.setText(response.body().getGuru().get(0).getPendidikan().toString());
+                program.setText(response.body().getGuru().get(0).getProgram().toString());
+                jam.setText(response.body().getGuru().get(0).getJam().toString());
+                masakerja.setText(response.body().getGuru().get(0).getMasakerja().toString());
+                jenisguru.setText(response.body().getGuru().get(0).getJenisguru().toString());
+            }
+
+            @Override
+            public void onFailure(Call<Guru> call, Throwable t) {
+                Toast.makeText(ProfileActivity.this, "Check your connection!!", Toast.LENGTH_SHORT).show();
+            }
+        });
 
         btnUpdate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-                RequestBody reqKodeGuru = MultipartBody.create(MediaType.parse("multipart/form-data"),pref.getString("id_guru",null));
+                RequestBody reqKodeGuru = MultipartBody.create(MediaType.parse("multipart/form-data"),pref.getString("kodeguru",null));
                 RequestBody reqNamaGuru = MultipartBody.create(MediaType.parse("multipart/form-data"), namaguru.getText().toString());
                 RequestBody reqNip = MultipartBody.create(MediaType.parse("multipart/form-data"), nip.getText().toString());
                 RequestBody reqNuptk = MultipartBody.create(MediaType.parse("multipart/form-data"), nuptk.getText().toString());
@@ -143,7 +143,7 @@ public class ProfileActivity extends AppCompatActivity {
 
                     @Override
                     public void onResponse(Call<Guru> call, Response<Guru> response) {
-                      //  Toast.makeText(ProfileActivity.this, ""+response.body().getGuru(), Toast.LENGTH_SHORT).show();
+                        Toast.makeText(ProfileActivity.this, ""+response.body().getGuru(), Toast.LENGTH_SHORT).show();
 //                        Log.d("JSON", );
                         Toast.makeText(ProfileActivity.this, "Update Succsess!! ", Toast.LENGTH_SHORT).show();
                         finish();

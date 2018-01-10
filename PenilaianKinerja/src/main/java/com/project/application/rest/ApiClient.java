@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  */
 
 public class ApiClient {
-    public static final String BASE_URL = "http://10.42.0.1/kinerja_res/";
+    public static final String BASE_URL = "http://192.168.43.126/kinerja_res/";
 
     private static Retrofit retrofit24 = null;
     public static Retrofit GetGuru() {

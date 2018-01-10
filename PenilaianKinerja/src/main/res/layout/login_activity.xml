@@ -69,6 +69,7 @@
             android:id="@+id/password"
             android:drawableRight="@drawable/ic_locked_padlock"
             android:hint="********"
+            android:inputType="textPassword"
             android:textColor="@color/cardview_dark_background"
             android:text="1959-06-30"
             android:layout_width="match_parent"

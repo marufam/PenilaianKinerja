@@ -9,19 +9,19 @@ import java.lang.IllegalStateException;
 import java.lang.Object;
 import java.lang.Override;
 
-public class RecyclerViewFragment$$ViewBinder<T extends RecyclerViewFragment> implements ViewBinder<T> {
+public class RecyclerViewFragment$$ViewBinder<T extends PedagogikViewFragment> implements ViewBinder<T> {
   @Override
   public Unbinder bind(Finder finder, T target, Object source) {
     return new InnerUnbinder<>(target, finder, source);
   }
 
-  protected static class InnerUnbinder<T extends RecyclerViewFragment> implements Unbinder {
+  protected static class InnerUnbinder<T extends PedagogikViewFragment> implements Unbinder {
     protected T target;
 
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.mRecyclerView = finder.findRequiredViewAsType(source, 2131230860, "field 'mRecyclerView'", RecyclerView.class);
+      target.mRecyclerView = finder.findRequiredViewAsType(source, 2131230862, "field 'mRecyclerView'", RecyclerView.class);
     }
 
     @Override

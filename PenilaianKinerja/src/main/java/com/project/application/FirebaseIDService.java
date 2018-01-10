@@ -1,5 +1,6 @@
 package com.project.application;
 
+import android.content.SharedPreferences;
 import android.util.Log;
 
 import com.google.firebase.iid.FirebaseInstanceId;
@@ -32,5 +33,7 @@ public class FirebaseIDService extends FirebaseInstanceIdService {
      */
     private void sendRegistrationToServer(String token) {
         // Add custom implementation, as needed.
+        SharedPrefManager.getInstance(getApplicationContext()).saveDeviceToken(token);
+
     }
 }

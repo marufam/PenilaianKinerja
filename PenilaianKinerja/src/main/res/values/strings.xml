@@ -107,4 +107,5 @@
         completions."
     </string>
     <string name="title_activity_notificationview">Notificationview</string>
+    <string name="title_activity_indikator">IndikatorActivity</string>
 </resources>

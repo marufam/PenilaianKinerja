@@ -21,7 +21,7 @@ public class ScrollFragment$$ViewBinder<T extends ScrollFragment> implements Vie
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.mScrollView = finder.findRequiredViewAsType(source, 2131230868, "field 'mScrollView'", NestedScrollView.class);
+      target.mScrollView = finder.findRequiredViewAsType(source, 2131230874, "field 'mScrollView'", NestedScrollView.class);
     }
 
     @Override
